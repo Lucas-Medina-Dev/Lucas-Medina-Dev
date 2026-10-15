@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1F6FEB&height=200&section=header&text=Lucas%20Medina&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Finance%20%C2%B7%20M%26A%20%C2%B7%20Private%20Equity%20%C2%B7%20Venture%20Capital&descSize=18&descAlignY=58" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=640&lines=International+Economics+%26+Finance+%40+Bocconi;Ex-Wingate+IB+%C2%B7+Ex-TP+ICAP;I+build+tools+that+make+finance+faster" />
@@ -73,4 +73,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0A1F44&height=110&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
