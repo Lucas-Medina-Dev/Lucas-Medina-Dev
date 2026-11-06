@@ -15,7 +15,7 @@
 ### 👤 About
 
 - 🎓 **BSc International Economics & Finance** — Bocconi University
-- 📐 **GRE 170/170 Quant** · 163 Verbal
+- 📐 **GRE** 170Q · 163V
 - 🎯 Heading toward **M&A / PE**, with a long-term interest in **venture capital**
 - ⚙️ I automate the boring parts of finance with Python, LLMs and n8n
 
@@ -26,7 +26,7 @@
 | | Role | Focus |
 |:--|:--|:--|
 | 🏦 **Wingate Investment Bank** · Paris | Summer Analyst | M&A & Debt Advisory |
-| 📈 **TP ICAP** · Paris | Trading Desk Intern | Inflation Desk |
+| 📈 **TP ICAP** · Paris | Broker Intern | Inflation Products Desk |
 | 🏛️ **Bocconi Students Fintech Society** | Head of Corporate Analysis Division · Head of Partnerships | Built the equity research division from scratch |
 | 🚀 **Bocconi Students for Venture Capital** | Head of Business Development | Startup & fund partnerships |
 
@@ -37,21 +37,21 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/Lucas-Medina-Dev/coursauto">📚 coursauto</a></h4>
+      <h4>📚 coursauto</h4>
       <sub>Watches a folder and turns course slide decks into styled study-note PDFs, fully automatically.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/WeasyPrint-0A1F44?style=flat-square"/>
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/Lucas-Medina-Dev/equity-research-toolkit">📊 equity-research-toolkit</a></h4>
+      <h4>📊 equity-research-toolkit</h4>
       <sub>DCF & comps templates plus the rating framework built for BSFS's Corporate Analysis Division.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/Lucas-Medina-Dev/pe-origination-agents">🤖 pe-origination-agents</a></h4>
+      <h4>🤖 pe-origination-agents</h4>
       <sub>AI agents helping PE analysts source buy-and-build targets. Deployed at a European mid-market fund.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
