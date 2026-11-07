@@ -37,8 +37,8 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>📚 coursauto</h4>
-      <sub>Watches a folder and turns course slide decks into styled study-note PDFs, fully automatically.</sub><br/><br/>
+      <h4><a href="https://github.com/Lucas-Medina-Dev/coursauto">📚 coursauto</a></h4>
+      <sub>Drop a lecture deck in a folder, get exam-ready study notes as a PDF. Used on 18 decks this semester.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/WeasyPrint-0A1F44?style=flat-square"/>
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
