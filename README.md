@@ -47,10 +47,10 @@
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
     </td>
     <td width="33%" valign="top">
-      <h4>🤖 pe-origination-agents</h4>
-      <sub>AI agents helping PE analysts source buy-and-build targets. Deployed at a European mid-market fund.</sub><br/><br/>
+      <h4><a href="https://github.com/Lucas-Medina-Dev/pe-origination-agents">🤖 pe-origination-agents</a></h4>
+      <sub>LLM agent screening buy-and-build targets: website crawl, French registry, thesis scoring written back to the sheet. Python rebuild of Dealflow.ai.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
       <img src="https://img.shields.io/badge/LLM_APIs-0A1F44?style=flat-square"/>
     </td>
   </tr>
@@ -68,3 +68,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <img src="./footer.svg" width="100%"/>
+ 
